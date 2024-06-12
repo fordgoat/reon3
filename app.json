@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/hitokizzy/fsub_2button",
+  "repository": "https://github.com/hitokizzy/fsub_3button",
   "logo": "https://ibb.co/FgPVtzw",
   "env": {
     "TG_BOT_TOKEN": {
